@@ -858,7 +858,7 @@ th:first-child {
   width: 100%;
 }
 
-.wide-page .full-width-content .content {
+.wide-page.full-width-content .content {
   max-width: 1180px;
 }
 
