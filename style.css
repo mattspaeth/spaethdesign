@@ -829,10 +829,6 @@ th:first-child {
   max-width: 840px;
 }
 
-.wide-page .site-inner {
-  max-width: 1280px;
-}
-
 /* Column Widths and Positions
 --------------------------------------------- */
 
@@ -860,6 +856,10 @@ th:first-child {
   margin-right: auto;
   max-width: 840px;
   width: 100%;
+}
+
+.wide-page .full-width-content .content {
+  max-width: 1180px;
 }
 
 .full.full-width-content .content,
