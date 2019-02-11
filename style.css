@@ -410,7 +410,7 @@ hr {
 
 b,
 strong {
-  font-weight: 700;
+  font-weight: 300;
 }
 
 blockquote,
@@ -668,7 +668,7 @@ input[type="submit"],
   font-size: 10px;
   font-size: 1rem;
   -webkit-font-smoothing: antialiased;
-  font-weight: 700;
+  font-weight: 300;
   letter-spacing: 2px;
   line-height: 1;
   padding: 12px 20px;
@@ -1406,7 +1406,7 @@ img.alignright,
 }
 
 .site-title {
-  font-family: "Raleway", sans-serif;
+  font-family: "Futura PT", sans-serif;
   font-size: 18px;
   font-size: 1.8rem;
   font-weight: 300;
@@ -1463,7 +1463,7 @@ img.alignright,
   font-family: "Futura PT", sans-serif;
   font-size: 10px;
   font-size: 1rem;
-  font-weight: 700;
+  font-weight: 300;
   letter-spacing: 2px;
   padding: 30px 20px;
   text-decoration: none;
@@ -1677,7 +1677,7 @@ p.entry-meta {
   color: #000;
   font-size: 18px;
   font-size: 1.8rem;
-  font-weight: 700;
+  font-weight: 300;
 }
 
 .archive-pagination a:hover,
@@ -1697,7 +1697,7 @@ p.entry-meta {
   font-family: "Futura PT", sans-serif;
   font-size: 10px;
   font-size: 1rem;
-  font-weight: 700;
+  font-weight: 300;
   letter-spacing: 2px;
   padding: 8px 12px;
   text-decoration: none;
