@@ -664,7 +664,7 @@ input[type="submit"],
   border-radius: 0;
   color: #fff;
   cursor: pointer;
-  font-family: "Raleway", sans-serif;
+  font-family: "Futura PT", sans-serif;
   font-size: 10px;
   font-size: 1rem;
   -webkit-font-smoothing: antialiased;
@@ -1067,7 +1067,7 @@ th:first-child {
 }
 
 .widget-title {
-  font-family: "Raleway", sans-serif;
+  font-family: "Futura PT", sans-serif;
   font-size: 12px;
   font-size: 1.2rem;
   letter-spacing: 2px;
@@ -1460,7 +1460,7 @@ img.alignright,
 .genesis-nav-menu a {
   color: #000;
   display: block;
-  font-family: "Raleway", sans-serif;
+  font-family: "Futura PT", sans-serif;
   font-size: 10px;
   font-size: 1rem;
   font-weight: 700;
@@ -1694,7 +1694,7 @@ p.entry-meta {
   color: #000;
   cursor: pointer;
   display: inline-block;
-  font-family: "Raleway", sans-serif;
+  font-family: "Futura PT", sans-serif;
   font-size: 10px;
   font-size: 1rem;
   font-weight: 700;
